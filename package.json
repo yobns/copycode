@@ -3,13 +3,18 @@
   "displayName": "CopyCode",
   "publisher": "copycode",
   "description": "Copy contents of files to ask something to a LLM",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yobns/copycode.git"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
   "categories": [
     "Other"
   ],
+  "icon": "icon.png",
   "activationEvents": [
     "onStartupFinished"
   ],
