@@ -3,7 +3,7 @@
   "displayName": "CopyCode",
   "publisher": "copycode",
   "description": "Copy contents of files to ask something to a LLM",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/yobns/copycode.git"
